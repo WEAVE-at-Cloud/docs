@@ -1,0 +1,115 @@
+==========================================================================================
+=                                                                                        =
+=                        WEAVE@cloud API License Agreement                               =
+=                                                                                        =
+==========================================================================================
+
+BY INTERACTING IN ANY WAY WITH THE WEAVE@cloud API, INCLUDING, BUT NOT 
+LIMITED TO USING THE ON-PREMISE APPLICATION DEPLOYER OR REQUESTING 
+CREDENTIALS OR MAKING API CALLS, YOU OR THE ENTITY OR COMPANY THAT 
+YOU REPRESENT ("YOU") UNCONDITIONALLY CONSENT AND AGREE TO BE BOUND 
+BY AND A PARTY TO THESE TERMS AND CONDITIONS (“AGREEMENT”).
+
+1. GRANT OF LICENSE - Subject to your ("Licensee's") full compliance with all of the 
+terms and conditions of this API Agreement ("Agreement"), CloudBees Inc. ("CloudBees") 
+grants Licensee a non-exclusive, revocable, nonsublicensable, nontransferable license to 
+download and use the WEAVE@cloud application program interface and other materials 
+provided by CloudBees (collectively, "API") to develop, reproduce and distribute 
+applications that interoperate with the WEAVE@cloud service or any other web property owned by 
+CloudBees ("CloudBees Applications"). Licensee may not install or use the API for any 
+other purpose without CloudBees' prior written consent, Licensee shall not use the API in 
+connection with or to promote any products, services, or materials that constitute, 
+promote or are used primarily for the purpose of dealing in: spyware, adware, or other 
+malicious programs or code, counterfeit goods, items subject to embargo in any 
+jurisdiction, unsolicited mass distribution of email ("spam"), multi-level marketing 
+proposals, hate materials, hacking/surveillance/interception/descrambling equipment, 
+libelous, defamatory, obscene, pornographic, abusive or otherwise offensive content, 
+prostitution, body parts and bodily ﬂuids, stolen products and items used for theft, 
+ﬁreworks, explosives, and hazardous materials, government IDs, police items, gambling, 
+professional services regulated by state licensing regimes, non-transferable items such as 
+airline tickets or event tickets, weapons and accessories.
+
+2. PROPRIETARY RIGHTS - As between CloudBees and Licensee, the API and all 
+intellectual property rights in and to the API are and shall at all times remain the sole and 
+exclusive property of CloudBees and are protected by applicable intellectual property laws 
+and treaties.
+
+3. OTHER RESTRICTIONS - Except as expressly and unambiguously authorized under 
+this Agreement, Licensee may not (i) copy, rent, lease, sell, transfer, assign, sublicense, 
+disassemble, reverse engineer or decompile (except to the limited extent expressly 
+authorized by applicable statutory law), modify or alter any part of the API; (ii) rent, lease, 
+sell, transfer, assign or sublicense derivatives of the WEAVE@cloud API without CloudBees' 
+prior written consent; (iii) otherwise use the API on behalf of any third party.  CloudBees 
+expressly reserves the right to limit the number and/or frequency of API requests in its 
+sole discretion.
+
+4. WARRANTY DISCLAIMER - THE APIs ARE PROVIDED "AS IS" WITHOUT WARRANTY 
+OF ANY KIND. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, CLOUDBEES 
+AND ITS VENDORS EACH DISCLAIM ALL WARRANTIES, WHETHER EXPRESS, IMPLIED 
+OR STATUTORY, REGARDING THE APIs, INCLUDING WITHOUT LIMITATION ANY AND 
+ALL IMPLIED WARRANTIES OF MERCHANTABILITY, ACCURACY, RESULTS OF USE, 
+RELIABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, INTERFERENCE WITH 
+QUIET ENJOYMENT, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS. FURTHER, 
+CLOUDBEES DISCLAIMS ANY WARRANTY THAT LICENSEE'S USE OF THE APIs WILL 
+BE UNINTERRUPTED OR ERROR FREE.
+
+5. CLOUDBEES TRADEMARKS – This Agreement does not include any right for Licensee 
+to use any trademark, service mark, trade name or any other mark of CloudBees or any 
+other party or licensor. No rights or licenses are granted except as expressly and 
+unambiguously set forth herein.
+
+6. MODIFICATIONS TO THIS AGREEMENT.  CloudBees reserves the right, in its sole 
+discretion to modify this Agreement at any time by posting a notice to cloudbees.com. 
+You shall be responsible for reviewing and becoming familiar with any such modiﬁcation. 
+Such modiﬁcations are effective upon ﬁrst posting or notiﬁcation and use of the 
+WEAVE@cloud API by Licensee following any such notiﬁcation constitutes Licensee’s 
+acceptance of the terms and conditions of this Agreement as modiﬁed.
+
+7. SUPPORT AND UPGRADES - This Agreement does not entitle Licensee to any support 
+for the APIs, unless Licensee makes separate arrangements with CloudBees and pays all 
+fees associated with such support. Any such support provided by CloudBees shall be 
+subject to the terms of this Agreement as modiﬁed by the associated support Agreement.
+
+8. LIABILITY LIMITATION - REGARDLESS OF WHETHER ANY REMEDY SET FORTH 
+HEREIN FAILS OF ITS ESSENTIAL PURPOSE OR OTHERWISE, AND EXCEPT FOR 
+BODILY INJURY, IN NO EVENT WILL CLOUDBEES OR ITS VENDORS, BE LIABLE TO 
+LICENSEE OR TO ANY THIRD PARTY UNDER ANY TORT, CONTRACT, NEGLIGENCE, 
+STRICT LIABILITY OR OTHER LEGAL OR EQUITABLE THEORY FOR ANY LOST 
+PROFITS, LOST OR CORRUPTED DATA, COMPUTER FAILURE OR MALFUNCTION, 
+INTERRUPTION OF BUSINESS, OR OTHER SPECIAL, INDIRECT, INCIDENTAL OR 
+CONSEQUENTIAL DAMAGES OF ANY KIND ARISING OUT OF THE USE OR INABILITY 
+TO USE THE API, EVEN IF CLOUDBEES HAS BEEN ADVISED OF THE POSSIBILITY OF 
+SUCH LOSS OR DAMAGES AND WHETHER OR NOT SUCH LOSS OR DAMAGES ARE 
+FORESEEABLE. ANY CLAIM ARISING OUT OF OR RELATING TO THIS AGREEMENT 
+MUST BE BROUGHT WITHIN ONE (1) YEAR AFTER THE OCCURRENCE OF THE EVENT GIVING RISE TO SUCH CLAIM. 
+IN ADDITION, CLOUDBEES DISCLAIMS ALL LIABILITY OF ANY KIND OF CLOUDBEES' VENDORS. 
+
+9. INDEMNITY - Licensee agrees that CloudBees shall have no liability whatsoever for any 
+use Licensee makes of the API. Licensee shall indemnify and hold harmless CloudBees 
+from any and all claims, damages, liabilities, costs and fees (including reasonable 
+attorneys' fees) arising from Licensee's use of the API. 
+
+10. TERM AND TERMINATION - This Agreement shall continue until terminated as set 
+forth in this Section. Either party may terminate this Agreement at any time, for any 
+reason, or for no reason including, but not limited to, if Licensee violates any provision of 
+this Agreement. Any termination of this Agreement shall also terminate the license 
+granted hereunder. Upon termination of this Agreement for any reason, Licensee shall 
+destroy and remove from all computers, hard drives, networks, and other storage media 
+all copies of the API, and shall so certify to CloudBees that such actions have occurred.
+
+11. MISCELLANEOUS – Unless the parties have entered into a written amendment to this 
+agreement that is signed by both parties regarding the WEAVE@cloud API, this Agreement 
+constitutes the entire agreement between Licensee and CloudBees pertaining to the 
+subject matter hereof, and supersedes any and all written or oral agreements with respect 
+to such subject matter. This Agreement may be amended only by a writing executed by 
+CloudBees. If any provision of this Agreement is held to be unenforceable for any reason, 
+such provision shall be reformed only to the extent necessary to make it enforceable. The 
+failure of CloudBees to act with respect to a breach of this Agreement by Licensee or 
+others does not constitute a waiver and shall not limit CloudBees' rights with respect to 
+such breach or any subsequent breaches. This Agreement is personal to Licensee and 
+may not be assigned or transferred for any reason whatsoever (including, without 
+limitation, by operation of law, merger, reorganization, or as a result of an acquisition or 
+change of control involving Licensee) without CloudBees' prior written consent and any 
+action or conduct in violation of the foregoing shall be void and without effect. CloudBees 
+expressly reserves the right to assign this Agreement and to delegate any of its 
+obligations hereunder.
